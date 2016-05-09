@@ -1,0 +1,4 @@
+vendor/
+sftp-*
+.DS_STORE
+installer.*
